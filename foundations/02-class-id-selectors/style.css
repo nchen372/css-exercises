@@ -1,0 +1,21 @@
+.no1 {
+    background-color: rgb(255, 181, 192);
+    color: rgb(0, 0, 0);
+    font-family: Verdana, 'DejaVu Sans', sans-serif;
+}
+
+.no1 cool {
+    font-size:24px;
+}
+
+#no2 {
+    color: #0000ff;
+    font-size: 36px;
+}
+
+#no4 {
+    background-color: hsl(120, 73%, 75%);
+    font-size:24px;
+    font-weight: bold;
+    color: black;
+}
